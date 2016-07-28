@@ -1,0 +1,49 @@
+/*
+ * v1.1 edit: added style to application.
+ */
+#splitPane
+{
+	-fx-background-image:url("/images/backIcon1.png");
+}
+
+#outputField
+{
+	-fx-font-family: serif;
+	-fx-text-alignment: center;
+	-fx-font-family: serif;
+	-fx-background-color: rgba(0,255,157,.95);
+}
+
+
+.textStyle
+{
+	-fx-font-family: serif;	
+	-fx-border-style: solid;	
+	-fx-border-radius: 3;
+	-fx-border-color: rgba(0,255,157,.95);
+	-fx-background-color: rgba(0,255,157,.95);
+}
+
+.button
+{
+	-fx-background-color: #00e68d;
+	/*
+	 * compliments:
+	 * 00b36e
+	 * 00cc7e
+	 * 00ff9d
+	 * 1affa7
+	 * 33ffb1
+	 * 4dffba
+	 */
+}
+
+.aboutLabel
+{
+	-fx-background-color: rgba(26,255,167,.97);
+}
+
+#aboutPane
+{
+	-fx-background-image:url("/images/backIcon1.png");
+}
